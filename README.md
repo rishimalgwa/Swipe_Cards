@@ -1,16 +1,22 @@
 # sophron_task
 
-A new Flutter project.
+Swipe-able Cards App like inshorts
 
-## Getting Started
+## Instructions to run
 
-This project is a starting point for a Flutter application.
+```
+$ git clone https://github.com/rishimalgwa/Swipe_Cards
+$ cd Swipe_Cards
+``` 
 
-A few resources to get you started if this is your first Flutter project:
+**Instructions for Android:**
+```
+$ cd Swipe_Cards
+$ flutter build apk --release
+```
+- Go to Swipe_Cards/build/app/outputs/apk/release/app-release.apk
+- Install APK on your Android device
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Instructions for iOS:**
+- Open the project file in XCode
+- Run the App to Install
